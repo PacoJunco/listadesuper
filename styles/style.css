@@ -1,0 +1,36 @@
+
+body {
+	background-color: black;
+	text-align:center;
+}
+
+h1 { 
+	color:blue;
+	font-family:sans-serif;
+	font font-size: 100%
+ }
+
+/*Comentarios*/  
+
+ h3 {
+ 	color:white;
+ 	font-family:arial;
+ 	font:10px;
+ 	background-color: blue;
+
+ }
+ ol ul li{ 
+
+	color:brown;
+	font-family: times
+	font-size: 3em;
+	text-align: center;
+ }
+img {
+	width:500px;
+	height: 500px;
+}
+.gatos {
+	width:1000px;
+	height:1000px;
+}
